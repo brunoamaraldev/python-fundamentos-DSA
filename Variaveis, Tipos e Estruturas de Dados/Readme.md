@@ -1,4 +1,3 @@
-
 ### Números e Operações Matemáticas
 
 Python possui 2 tipos de números principais:
