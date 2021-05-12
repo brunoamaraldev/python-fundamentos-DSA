@@ -34,3 +34,21 @@ Existem algumas regras que devem ser seguidas ao definir nomes de variáveis:
 
 <p>Operadores de Comparação</p>
 <img src= 'https://i.imgur.com/6hh0CFP.png' width=600 height=300>
+
+### Strings
+
+Strings são usadas em python para gravar informações em formato de texto, como nomes por exemplo. Strings em python são na verdade uma sequência de caracteres, o que significa, basicamente, que python mantém o controle de cada elemento da sequência.
+
+Strings => sequência imutável de caracteres ou apenas 1 caracter
+ - "Essa é uma string"
+ - "a"
+
+Indexando strings: Em python, usa-se **colchetes[]** para representar o índice de um objeto.
+*Obs: Em python, a indexação começa por 0*
+
+Funções Built-in de Strings => Os métodos estão sob a forma:
+- objeto.atributo
+- objeto.método()
+- objeto.método(parâmetros)
+
+*Objeto.método(parâmetros)* => parâmetros são argumentos extras, que podemos passar para o método.
